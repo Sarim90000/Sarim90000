@@ -113,7 +113,7 @@ $ echo $STATUS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/sarim-a20096308/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:sarim.sharif10@gmail.com)
 
-*If you've got an interesting project or opportunity — let's talk.*
+ *If you've got an interesting project or opportunity — let's talk.*
 
 </div>
 
